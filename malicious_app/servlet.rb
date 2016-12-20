@@ -1,8 +1,5 @@
 #!/usr/bin/env ruby
-
-require 'base64'
 require 'sinatra'
-require 'json'
 
 set :bind, '127.0.0.1'
 set :port, '4000'
