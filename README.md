@@ -2,9 +2,11 @@
 
 1. Install MySQL Server
 2. Configure mysql credentials on `vulnerable_app/config/database.yml`
-3. Start Malicious App by running `./servlet.rb`
-4. Start Vulnerable App by running `rails s`
-5. Sign up to Vulnerable App
+3. Run `cd vulnerable_app && bundle exec rake db:create`
+4. Run `cd vulnerable_app && bundle exec rake db:schema:load`
+5. Start Malicious App by running `./servlet.rb`
+6. Start Vulnerable App by running `rails s`
+7. Sign up to Vulnerable App
 
 ### CSRF
 
