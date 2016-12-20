@@ -1,0 +1,24 @@
+<h1>Hello <%= current_user.email %>!</h1>
+<h3>Your current money is $ <%= current_user.money %>!</h3>
+
+<hr/>
+
+<h2>Add $1 to your account</h2>
+<a href="/add">Click here</a>
+
+<br/><br/>
+
+<h2>Transfer all your money to charity</h2>
+<a href="/charity">Click here</a>
+
+<br/><br/>
+
+<h2>Discover how much money other users have</h2>
+<form action="/discover" method="get">
+    Email: <input type="text" name="email" /><br/><br/>
+    <button type="submit">Discover</button>
+</form>
+
+<br/><br/><br/><br/>
+
+<%= link_to('Logout', destroy_user_session_path, :method => :delete) %>   
