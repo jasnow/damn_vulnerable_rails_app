@@ -12,7 +12,6 @@ class WelcomeController < ApplicationController
 
   def discover
     email = params[:email]
-    password = params[:password]
     @money = User.where("email = '#{email}'").first.money
   end
 end
