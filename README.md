@@ -1,3 +1,5 @@
+Based on https://github.com/andersonDadario/damn_vulnerable_rails_app/tree/master/vulnerable_app
+
 ### Setup 
 
 1. Install MySQL Server
