@@ -139,7 +139,7 @@ GEM
     nokogiri (1.14.2-x86_64-linux)
       racc (~> 1.4)
     orm_adapter (0.5.0)
-    parser (3.2.1.0)
+    parser (3.2.1.1)
       ast (~> 2.4.1)
     pastel (0.8.0)
       tty-color (~> 0.5)
@@ -297,4 +297,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.4.7
+   2.4.8
