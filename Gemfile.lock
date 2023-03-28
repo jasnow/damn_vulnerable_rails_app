@@ -227,8 +227,8 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
-    sqlite3 (1.6.1-x86_64-darwin)
-    sqlite3 (1.6.1-x86_64-linux)
+    sqlite3 (1.6.2-x86_64-darwin)
+    sqlite3 (1.6.2-x86_64-linux)
     strings (0.2.1)
       strings-ansi (~> 0.2)
       unicode-display_width (>= 1.5, < 3.0)
@@ -295,4 +295,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.4.9
+   2.4.10
