@@ -15,10 +15,10 @@ jobs:
 
     steps:
       - name: 
-        uses: actions/checkout@v3
+        uses: actions/checkout@v1
 
       - name: 
-        uses: ruby/setup-ruby@d3c9825d67b0d8720afdfdde5af56c79fdb38d16
+        uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
 
@@ -33,8 +33,8 @@ jobs:
     
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v1
       - name: Install Ruby and gems
-        uses: ruby/setup-ruby@d3c9825d67b0d8720afdfdde5af56c79fdb38d16
+        uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
