@@ -161,7 +161,7 @@ GEM
       racc
     pastel (0.8.0)
       tty-color (~> 0.5)
-    psych (5.1.1)
+    psych (5.1.1.1)
       stringio
     puma (6.4.0)
       nio4r (~> 2.0)
