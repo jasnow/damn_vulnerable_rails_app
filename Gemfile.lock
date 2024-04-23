@@ -261,7 +261,7 @@ GEM
       tty-spinner
       tty-table
       zeitwerk (>= 2.6)
-    spring (4.2.0)
+    spring (4.2.1)
     spring-watcher-listen (2.1.0)
       listen (>= 2.7, < 4.0)
       spring (>= 4)
@@ -347,7 +347,7 @@ DEPENDENCIES
   spektr
   spring
   spring-watcher-listen
-  sqlite3
+  sqlite3 (~> 1.4)
   turbolinks
   tzinfo-data
   uglifier
