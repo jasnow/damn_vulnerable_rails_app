@@ -147,7 +147,7 @@ GEM
     marcel (1.0.4)
     mini_mime (1.1.5)
     mini_portile2 (2.8.7)
-    minitest (5.24.1)
+    minitest (5.25.1)
     net-imap (0.4.14)
       date
       net-protocol
@@ -280,14 +280,18 @@ GEM
       actionpack (>= 6.1)
       activesupport (>= 6.1)
       sprockets (>= 3.0.0)
-    sqlite3 (1.7.3)
+    sqlite3 (2.0.4)
       mini_portile2 (~> 2.8.0)
-    sqlite3 (1.7.3-aarch64-linux)
-    sqlite3 (1.7.3-arm-linux)
-    sqlite3 (1.7.3-arm64-darwin)
-    sqlite3 (1.7.3-x86-linux)
-    sqlite3 (1.7.3-x86_64-darwin)
-    sqlite3 (1.7.3-x86_64-linux)
+    sqlite3 (2.0.4-aarch64-linux-gnu)
+    sqlite3 (2.0.4-aarch64-linux-musl)
+    sqlite3 (2.0.4-arm-linux-gnu)
+    sqlite3 (2.0.4-arm-linux-musl)
+    sqlite3 (2.0.4-arm64-darwin)
+    sqlite3 (2.0.4-x86-linux-gnu)
+    sqlite3 (2.0.4-x86-linux-musl)
+    sqlite3 (2.0.4-x86_64-darwin)
+    sqlite3 (2.0.4-x86_64-linux-gnu)
+    sqlite3 (2.0.4-x86_64-linux-musl)
     stringio (3.1.1)
     strings (0.2.1)
       strings-ansi (~> 0.2)
@@ -364,7 +368,7 @@ DEPENDENCIES
   spektr
   spring
   spring-watcher-listen
-  sqlite3 (~> 1.4)
+  sqlite3
   turbolinks
   tzinfo-data
   uglifier
