@@ -102,7 +102,7 @@ GEM
       warden (~> 1.2.3)
     docile (1.4.1)
     drb (2.2.3)
-    erb (5.0.1)
+    erb (5.0.2)
     erubi (1.13.1)
     execjs (2.10.0)
     ffi (1.17.2)
@@ -180,7 +180,7 @@ GEM
     nokogiri (1.18.8-x86_64-linux-musl)
       racc (~> 1.4)
     orm_adapter (0.5.0)
-    ostruct (0.6.2)
+    ostruct (0.6.3)
     parser (3.3.8.0)
       ast (~> 2.4.1)
       racc
@@ -263,7 +263,7 @@ GEM
       docile (~> 1.1)
       simplecov-html (~> 0.11)
       simplecov_json_formatter (~> 0.1)
-    simplecov-html (0.13.1)
+    simplecov-html (0.13.2)
     simplecov_json_formatter (0.1.4)
     slim (5.2.1)
       temple (~> 0.10.0)
@@ -382,4 +382,4 @@ DEPENDENCIES
   web-console
 
 BUNDLED WITH
-   2.6.9
+   2.7.0
