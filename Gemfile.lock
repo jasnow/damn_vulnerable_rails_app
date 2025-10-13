@@ -102,7 +102,7 @@ GEM
       warden (~> 1.2.3)
     docile (1.4.1)
     drb (2.2.3)
-    erb (5.0.3)
+    erb (5.1.1)
     erubi (1.13.1)
     execjs (2.10.0)
     ffi (1.17.2)
