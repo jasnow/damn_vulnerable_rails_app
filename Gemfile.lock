@@ -153,7 +153,7 @@ GEM
     marcel (1.1.0)
     mini_mime (1.1.5)
     mini_portile2 (2.8.9)
-    minitest (5.26.1)
+    minitest (5.26.2)
     net-imap (0.5.12)
       date
       net-protocol
