@@ -40,7 +40,6 @@ group :development, :test do
   gem 'byebug', platform: :mri
 
   gem 'simplecov'
-  gem 'ruby_audit'
   gem 'spektr'
 end
 
