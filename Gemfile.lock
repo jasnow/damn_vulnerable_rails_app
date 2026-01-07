@@ -118,15 +118,15 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    herb (0.8.6)
-    herb (0.8.6-aarch64-linux-gnu)
-    herb (0.8.6-aarch64-linux-musl)
-    herb (0.8.6-arm-linux-gnu)
-    herb (0.8.6-arm-linux-musl)
-    herb (0.8.6-arm64-darwin)
-    herb (0.8.6-x86_64-darwin)
-    herb (0.8.6-x86_64-linux-gnu)
-    herb (0.8.6-x86_64-linux-musl)
+    herb (0.8.7)
+    herb (0.8.7-aarch64-linux-gnu)
+    herb (0.8.7-aarch64-linux-musl)
+    herb (0.8.7-arm-linux-gnu)
+    herb (0.8.7-arm-linux-musl)
+    herb (0.8.7-arm64-darwin)
+    herb (0.8.7-x86_64-darwin)
+    herb (0.8.7-x86_64-linux-gnu)
+    herb (0.8.7-x86_64-linux-musl)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
     io-console (0.8.2)
@@ -318,7 +318,7 @@ GEM
       unicode_utils (~> 1.4)
     strings-ansi (0.2.0)
     temple (0.10.4)
-    thor (1.4.0)
+    thor (1.5.0)
     tilt (2.6.1)
     timeout (0.6.0)
     tsort (0.2.0)
@@ -433,15 +433,15 @@ CHECKSUMS
   ffi (1.17.3-x86_64-linux-musl) sha256=086b221c3a68320b7564066f46fed23449a44f7a1935f1fe5a245bd89d9aea56
   globalid (1.3.0) sha256=05c639ad6eb4594522a0b07983022f04aa7254626ab69445a0e493aa3786ff11
   haml (7.1.0) sha256=aed691bddcaaf4855398b3e4dd39d8590600b0f0151f4def1c2aa83bfd444248
-  herb (0.8.6) sha256=e2c8fe05e972b93b2d68fe74b8a27619890ed2a88d45aa8e1180f4c9ea44e647
-  herb (0.8.6-aarch64-linux-gnu) sha256=46b1bcc6816ae5ab5ba9df180f72d8f4651632ea008811d1c0ef5664c503e842
-  herb (0.8.6-aarch64-linux-musl) sha256=f7ae1bec7f91853fb217f94e22e6691464b5223ad37c83f3d67848f46a65872e
-  herb (0.8.6-arm-linux-gnu) sha256=65f9976bd75428ef954a65758d2acfff1f99c6cafbc149c5bc8e5155d55a5a2a
-  herb (0.8.6-arm-linux-musl) sha256=51acda8990ea8fd142b3c71ac6f389eedd284edc4cae77ffa59347f4f0a897d0
-  herb (0.8.6-arm64-darwin) sha256=29fe5be5c31196129784abe22fe1e52e445938a1f1cfc20af531e1cb08c54b3a
-  herb (0.8.6-x86_64-darwin) sha256=b433b6711e2e053b8e6da70345cde1c675c53ad3e3f5799be7807967949097c9
-  herb (0.8.6-x86_64-linux-gnu) sha256=9412e95077c75ba069bf12cbb67f603a34f152407542b31faac414db7a5deb87
-  herb (0.8.6-x86_64-linux-musl) sha256=b4125d7bbe078d7500a9908f9a547e97941bd1ea9cfc666b9de40a479cdd0286
+  herb (0.8.7) sha256=73c5216b1e1b2e84c55411804a95768b1bbbfc99ccc7ee88724ea41498fd2aeb
+  herb (0.8.7-aarch64-linux-gnu) sha256=a9b59feefc518042b31bf0b7cd2e5857f61555380f36d872b6bf5fca1b49c697
+  herb (0.8.7-aarch64-linux-musl) sha256=9f61389d91b3c0e1f45dd53c4d04a64c29ed4e5d12ec2a85859f645b9d999592
+  herb (0.8.7-arm-linux-gnu) sha256=16af723371e0c9eb9048b2c254df2d8d2633e7ced2bfd3ff9a6c9e2bfb44eec4
+  herb (0.8.7-arm-linux-musl) sha256=4f37c99fdbc1deb4ff9b1f13099a7a743bb0b570ce8fa993f2fa5130909d90a1
+  herb (0.8.7-arm64-darwin) sha256=f8b0d295fb941ce7e88d39146528c8bab702aa937703be6632528a8fdddebffc
+  herb (0.8.7-x86_64-darwin) sha256=f61cb1fb7a45e9aad9ac71b76ddace3527e8a6040f7bddbe210517cb01b09abc
+  herb (0.8.7-x86_64-linux-gnu) sha256=bd456eec87593b128e5bfe13b614418ceab42fd332965d371008f3754bcf6169
+  herb (0.8.7-x86_64-linux-musl) sha256=48ea60845b065fe6071af826ce1a6236944248f7cc0c23780226e0f48ec16709
   i18n (1.14.8) sha256=285778639134865c5e0f6269e0b818256017e8cde89993fdfcbfb64d088824a5
   io-console (0.8.2) sha256=d6e3ae7a7cc7574f4b8893b4fca2162e57a825b223a177b7afa236c5ef9814cc
   irb (1.16.0) sha256=2abe56c9ac947cdcb2f150572904ba798c1e93c890c256f8429981a7675b0806
@@ -520,7 +520,7 @@ CHECKSUMS
   strings (0.2.1) sha256=933293b3c95cf85b81eb44b3cf673e3087661ba739bbadfeadf442083158d6fb
   strings-ansi (0.2.0) sha256=90262d760ea4a94cc2ae8d58205277a343409c288cbe7c29416b1826bd511c88
   temple (0.10.4) sha256=b7a1e94b6f09038ab0b6e4fe0126996055da2c38bec53a8a336f075748fff72c
-  thor (1.4.0) sha256=8763e822ccb0f1d7bee88cde131b19a65606657b847cc7b7b4b82e772bcd8a3d
+  thor (1.5.0) sha256=e3a9e55fe857e44859ce104a84675ab6e8cd59c650a49106a05f55f136425e73
   tilt (2.6.1) sha256=35a99bba2adf7c1e362f5b48f9b581cce4edfba98117e34696dde6d308d84770
   timeout (0.6.0) sha256=6d722ad619f96ee383a0c557ec6eb8c4ecb08af3af62098a0be5057bf00de1af
   tsort (0.2.0) sha256=9650a793f6859a43b6641671278f79cfead60ac714148aabe4e3f0060480089f
