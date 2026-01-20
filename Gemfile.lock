@@ -119,15 +119,15 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    herb (0.8.7)
-    herb (0.8.7-aarch64-linux-gnu)
-    herb (0.8.7-aarch64-linux-musl)
-    herb (0.8.7-arm-linux-gnu)
-    herb (0.8.7-arm-linux-musl)
-    herb (0.8.7-arm64-darwin)
-    herb (0.8.7-x86_64-darwin)
-    herb (0.8.7-x86_64-linux-gnu)
-    herb (0.8.7-x86_64-linux-musl)
+    herb (0.8.8)
+    herb (0.8.8-aarch64-linux-gnu)
+    herb (0.8.8-aarch64-linux-musl)
+    herb (0.8.8-arm-linux-gnu)
+    herb (0.8.8-arm-linux-musl)
+    herb (0.8.8-arm64-darwin)
+    herb (0.8.8-x86_64-darwin)
+    herb (0.8.8-x86_64-linux-gnu)
+    herb (0.8.8-x86_64-linux-musl)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
     io-console (0.8.2)
@@ -435,15 +435,15 @@ CHECKSUMS
   ffi (1.17.3-x86_64-linux-musl) sha256=086b221c3a68320b7564066f46fed23449a44f7a1935f1fe5a245bd89d9aea56
   globalid (1.3.0) sha256=05c639ad6eb4594522a0b07983022f04aa7254626ab69445a0e493aa3786ff11
   haml (7.2.0) sha256=87fd2b71f7feab1724337b090a7d767f5ab2d42f08c974f3ead673f18cfcd55a
-  herb (0.8.7) sha256=73c5216b1e1b2e84c55411804a95768b1bbbfc99ccc7ee88724ea41498fd2aeb
-  herb (0.8.7-aarch64-linux-gnu) sha256=a9b59feefc518042b31bf0b7cd2e5857f61555380f36d872b6bf5fca1b49c697
-  herb (0.8.7-aarch64-linux-musl) sha256=9f61389d91b3c0e1f45dd53c4d04a64c29ed4e5d12ec2a85859f645b9d999592
-  herb (0.8.7-arm-linux-gnu) sha256=16af723371e0c9eb9048b2c254df2d8d2633e7ced2bfd3ff9a6c9e2bfb44eec4
-  herb (0.8.7-arm-linux-musl) sha256=4f37c99fdbc1deb4ff9b1f13099a7a743bb0b570ce8fa993f2fa5130909d90a1
-  herb (0.8.7-arm64-darwin) sha256=f8b0d295fb941ce7e88d39146528c8bab702aa937703be6632528a8fdddebffc
-  herb (0.8.7-x86_64-darwin) sha256=f61cb1fb7a45e9aad9ac71b76ddace3527e8a6040f7bddbe210517cb01b09abc
-  herb (0.8.7-x86_64-linux-gnu) sha256=bd456eec87593b128e5bfe13b614418ceab42fd332965d371008f3754bcf6169
-  herb (0.8.7-x86_64-linux-musl) sha256=48ea60845b065fe6071af826ce1a6236944248f7cc0c23780226e0f48ec16709
+  herb (0.8.8) sha256=dac79d0b585e5c8ef0257bbb41aeea29cc28ed6e956514665818d95a59712887
+  herb (0.8.8-aarch64-linux-gnu) sha256=c452e12859628e0a98cd08d0941829e068300317afb82d0d37a96fc0af4ca416
+  herb (0.8.8-aarch64-linux-musl) sha256=c7c871cd32c174014c4a99a49a4e123417b06d3debafcf0a4aa24b6c9e32c83d
+  herb (0.8.8-arm-linux-gnu) sha256=8bd1f458abf6dc1c8f8e6076ab0e8a8d9bd7b57e3b5a06de659bf7186f151815
+  herb (0.8.8-arm-linux-musl) sha256=b6b971e795d4800c1c9125beba3a0c4fbc93aba6d15b0915f30194fbe4984989
+  herb (0.8.8-arm64-darwin) sha256=8043f5a439143f38366632221f6f5d25877cec3ab2f14ccfdb8093b58c76fd88
+  herb (0.8.8-x86_64-darwin) sha256=d2425ec3f69c27703a6fa80bdaa46a9ef8ac06017627d8c2314c84dfcc15d6dc
+  herb (0.8.8-x86_64-linux-gnu) sha256=2919ee304c2b43b4c9b0bb587d2bd3b53a125e88cff160f5291343c5a9b295fe
+  herb (0.8.8-x86_64-linux-musl) sha256=ed79ded1cf4cd6166aec79002b3c1f50d8e5236b06483c8767b27d6421e54248
   i18n (1.14.8) sha256=285778639134865c5e0f6269e0b818256017e8cde89993fdfcbfb64d088824a5
   io-console (0.8.2) sha256=d6e3ae7a7cc7574f4b8893b4fca2162e57a825b223a177b7afa236c5ef9814cc
   irb (1.16.0) sha256=2abe56c9ac947cdcb2f150572904ba798c1e93c890c256f8429981a7675b0806
