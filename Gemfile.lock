@@ -119,15 +119,15 @@ GEM
       temple (>= 0.8.2)
       thor
       tilt
-    herb (0.8.9)
-    herb (0.8.9-aarch64-linux-gnu)
-    herb (0.8.9-aarch64-linux-musl)
-    herb (0.8.9-arm-linux-gnu)
-    herb (0.8.9-arm-linux-musl)
-    herb (0.8.9-arm64-darwin)
-    herb (0.8.9-x86_64-darwin)
-    herb (0.8.9-x86_64-linux-gnu)
-    herb (0.8.9-x86_64-linux-musl)
+    herb (0.8.10)
+    herb (0.8.10-aarch64-linux-gnu)
+    herb (0.8.10-aarch64-linux-musl)
+    herb (0.8.10-arm-linux-gnu)
+    herb (0.8.10-arm-linux-musl)
+    herb (0.8.10-arm64-darwin)
+    herb (0.8.10-x86_64-darwin)
+    herb (0.8.10-x86_64-linux-gnu)
+    herb (0.8.10-x86_64-linux-musl)
     i18n (1.14.8)
       concurrent-ruby (~> 1.0)
     io-console (0.8.2)
@@ -248,7 +248,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rdoc (7.1.0)
+    rdoc (7.2.0)
       erb
       psych (>= 4.0.0)
       tsort
@@ -436,15 +436,15 @@ CHECKSUMS
   ffi (1.17.3-x86_64-linux-musl) sha256=086b221c3a68320b7564066f46fed23449a44f7a1935f1fe5a245bd89d9aea56
   globalid (1.3.0) sha256=05c639ad6eb4594522a0b07983022f04aa7254626ab69445a0e493aa3786ff11
   haml (7.2.0) sha256=87fd2b71f7feab1724337b090a7d767f5ab2d42f08c974f3ead673f18cfcd55a
-  herb (0.8.9) sha256=8617e7eba753877cef231e3269a7e00788a9b67a91c3b79d1210ae20321b60f7
-  herb (0.8.9-aarch64-linux-gnu) sha256=9214cc24953c355f9ae785a95bb9362cdfc9fcd2ae4db2a32bc26c0b88f98c7f
-  herb (0.8.9-aarch64-linux-musl) sha256=4ee883eed0935cfe2e508d0843b015d689ef9d13f00e9ec4a81a35acd061dc13
-  herb (0.8.9-arm-linux-gnu) sha256=9f83c76899fecd5e3429bbd66728226e7b75539cc59283829041479381a6ceea
-  herb (0.8.9-arm-linux-musl) sha256=7e92f68a0174f667098a5fab7cef25942e0d36d54cf0b79b8669d8400072fdd9
-  herb (0.8.9-arm64-darwin) sha256=d045cce47bbec4d27a413fc4758e75bdd748a40430293b20bbb59789c02cad81
-  herb (0.8.9-x86_64-darwin) sha256=2c516b9921e0f98c8909bc7ef474c1e9c8a06ca11bdd9510b7725f798dee4cf7
-  herb (0.8.9-x86_64-linux-gnu) sha256=0315fef432649bb1aa139d01e7acad66f78b0abd5aa6d1e03ca5fe1bde224b14
-  herb (0.8.9-x86_64-linux-musl) sha256=caae9c6058ada130f070342c568c6efcb1c44295cdc9e505fe58cb4ee870a207
+  herb (0.8.10) sha256=5c70c1402ba7bcc3f46d676fbb1cf5489cfa67c898f4700d2e5407c5627bf331
+  herb (0.8.10-aarch64-linux-gnu) sha256=da47ed456350077e73c6d94336dda8a3ac141922c867cf552bf17cb0840388de
+  herb (0.8.10-aarch64-linux-musl) sha256=6317516ad3dc0fc4543dad748d9a34689426beb4ee5eace0ac0f3c185277b5ce
+  herb (0.8.10-arm-linux-gnu) sha256=535eaf3003aa115b7c6c7ea634cdf4234cbec91596d946e8817261a45b7699d9
+  herb (0.8.10-arm-linux-musl) sha256=2cded27f825c868322df1d7343670122e2317644d4d75191409b915cd6d559fe
+  herb (0.8.10-arm64-darwin) sha256=bba77f7f64ffd144f36af5d4573ca5ee863f7258acd71c8536384d63d60e3d72
+  herb (0.8.10-x86_64-darwin) sha256=d1aa283e9d354f3ec20db4ba725718441d1b9d24ff75e17fa244b27f7dd82ec3
+  herb (0.8.10-x86_64-linux-gnu) sha256=268b059f66a1f3191c8d7c15cfcb293a91be5c3811704856acd49b6f2e5dc1b1
+  herb (0.8.10-x86_64-linux-musl) sha256=bd1b2bf9f0ab9ceecdd874cdf03424176b83fa3c937188568c011cecf40b5d7f
   i18n (1.14.8) sha256=285778639134865c5e0f6269e0b818256017e8cde89993fdfcbfb64d088824a5
   io-console (0.8.2) sha256=d6e3ae7a7cc7574f4b8893b4fca2162e57a825b223a177b7afa236c5ef9814cc
   irb (1.17.0) sha256=168c4ddb93d8a361a045c41d92b2952c7a118fa73f23fe14e55609eb7a863aae
@@ -493,7 +493,7 @@ CHECKSUMS
   rake (13.3.1) sha256=8c9e89d09f66a26a01264e7e3480ec0607f0c497a861ef16063604b1b08eb19c
   rb-fsevent (0.11.2) sha256=43900b972e7301d6570f64b850a5aa67833ee7d87b458ee92805d56b7318aefe
   rb-inotify (0.11.1) sha256=a0a700441239b0ff18eb65e3866236cd78613d6b9f78fea1f9ac47a85e47be6e
-  rdoc (7.1.0) sha256=494899df0706c178596ca6e1d50f1b7eb285a9b2aae715be5abd742734f17363
+  rdoc (7.2.0) sha256=8650f76cd4009c3b54955eb5d7e3a075c60a57276766ebf36f9085e8c9f23192
   reline (0.6.3) sha256=1198b04973565b36ec0f11542ab3f5cfeeec34823f4e54cebde90968092b1835
   responders (3.2.0) sha256=89c2d6ac0ae16f6458a11524cae4a8efdceba1a3baea164d28ee9046bd3df55a
   ruby_parser (3.22.0) sha256=1eb4937cd9eb220aa2d194e352a24dba90aef00751e24c8dfffdb14000f15d23
