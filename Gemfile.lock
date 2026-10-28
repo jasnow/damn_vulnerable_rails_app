@@ -122,7 +122,7 @@ GEM
       tilt
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    io-console (0.9.4)
+    io-console (0.9.5)
     irb (1.18.0)
       pp (>= 0.6.0)
       prism (>= 1.3.0)
@@ -293,16 +293,16 @@ GEM
       actionpack (>= 6.1)
       activesupport (>= 6.1)
       sprockets (>= 3.0.0)
-    sqlite3 (2.10.1)
+    sqlite3 (2.10.2)
       mini_portile2 (~> 2.8.0)
-    sqlite3 (2.10.1-aarch64-linux-gnu)
-    sqlite3 (2.10.1-aarch64-linux-musl)
-    sqlite3 (2.10.1-arm-linux-gnu)
-    sqlite3 (2.10.1-arm-linux-musl)
-    sqlite3 (2.10.1-arm64-darwin)
-    sqlite3 (2.10.1-x86_64-darwin)
-    sqlite3 (2.10.1-x86_64-linux-gnu)
-    sqlite3 (2.10.1-x86_64-linux-musl)
+    sqlite3 (2.10.2-aarch64-linux-gnu)
+    sqlite3 (2.10.2-aarch64-linux-musl)
+    sqlite3 (2.10.2-arm-linux-gnu)
+    sqlite3 (2.10.2-arm-linux-musl)
+    sqlite3 (2.10.2-arm64-darwin)
+    sqlite3 (2.10.2-x86_64-darwin)
+    sqlite3 (2.10.2-x86_64-linux-gnu)
+    sqlite3 (2.10.2-x86_64-linux-musl)
     strings (0.2.1)
       strings-ansi (~> 0.2)
       unicode-display_width (>= 1.5, < 3.0)
@@ -423,7 +423,7 @@ CHECKSUMS
   globalid (1.4.0) sha256=037f12fbf1d9d7a014d501c2d5c77356fd4ddd96d7a7991d6700bba96706f427
   haml (7.5.1) sha256=91c5843dd85d32042cc6218d2df8c81282403459958aa53caa58fda238adc287
   i18n (1.15.2) sha256=00f9eb62412fe593b2a65a97daa75300d37abb8f7202ec748e94b6d46a9dd1b5
-  io-console (0.9.4) sha256=a403304f32928ee85e56d457b4612ca43f2703b561a3258844992bd24085fbb1
+  io-console (0.9.5) sha256=83dd9bbf4c4680416629245b39cd4212eb5f4d9a4ea91804870c1f6b846414d5
   irb (1.18.0) sha256=de9454a0703a54704b9811a5ef31a60c86949fbf4013fcf244fabc7c775248e3
   jbuilder (2.15.1) sha256=2430bec28fb0cebacb5875b1009cf9d8bc3c303ccb810c4c8b062a4b51457637
   jquery-rails (4.6.1) sha256=619f3496cdcdeaae1fd6dafa52dbac3fc45b745d4e09712da4184a16b3a8d9c0
@@ -485,15 +485,15 @@ CHECKSUMS
   spring-watcher-listen (2.1.0) sha256=e958bcd956d1026eb95d16b2ef0e241d1ca35a754628bd45040e3d9954a61949
   sprockets (4.4.1) sha256=fbd665edad0916de5c7abefef0fc616866a60c5e48ce2846f39ac3fc5df9e184
   sprockets-rails (3.5.2) sha256=a9e88e6ce9f8c912d349aa5401509165ec42326baf9e942a85de4b76dbc4119e
-  sqlite3 (2.10.1) sha256=7ae52c91f5b766882cf44d2dbd26d2dbbb841606f0ec78df3be019bd07b13ff4
-  sqlite3 (2.10.1-aarch64-linux-gnu) sha256=48390cc2b809acd1280f5c9daaf3c2013833adb8a5ece9b0634f708651080ccd
-  sqlite3 (2.10.1-aarch64-linux-musl) sha256=db1bcddf98e4eeea80ca896f56aa3f9468364fa1ee8e042ddc6b628b5092fabb
-  sqlite3 (2.10.1-arm-linux-gnu) sha256=34a67a3fe84f705a0fad6f7aa4541579300644b9acdf414797e59929a6e3528b
-  sqlite3 (2.10.1-arm-linux-musl) sha256=e317adb8979b57dafd999b54410b4050296aa5d00caa664e3f75d876e2ae90e8
-  sqlite3 (2.10.1-arm64-darwin) sha256=45f74dad0a8ee57ae5fadfac39bf160d1f09fb0484a442223310d869cd957d92
-  sqlite3 (2.10.1-x86_64-darwin) sha256=00d1cd2e8ecff5ad9fffa0c97de59d4f85c5fc54eada2587d53ca0bd933b7a5d
-  sqlite3 (2.10.1-x86_64-linux-gnu) sha256=661ecede31e23a412059cd8c684ed84e332f64f167e4a90902cf99e8ea2c8718
-  sqlite3 (2.10.1-x86_64-linux-musl) sha256=67c7c5443a930157b4e148f0f4cb9ab998ee7ecfa8ce56879a6b56d1d742b2be
+  sqlite3 (2.10.2) sha256=f1ea68cd3287f8a49f39a088ac9e4bd0ef4e7f394c3d4a60dd4c7e44b0566964
+  sqlite3 (2.10.2-aarch64-linux-gnu) sha256=e9aea2c2b3476fc875dd8a89313a9a2862818519c0186bfb5b56d6f57bb08d98
+  sqlite3 (2.10.2-aarch64-linux-musl) sha256=4986fc40cdf21342362b72a941df28e95cfe0e644f3ad2532d948b157c39dbee
+  sqlite3 (2.10.2-arm-linux-gnu) sha256=762f609ef891463226b472d3df66aea84d5466ff4376d3ccf4a059718c4ce9c9
+  sqlite3 (2.10.2-arm-linux-musl) sha256=833623eaf1157b1b85d1c0830e3e8f9beb3bb95a9bec3d252f20557a50e9803a
+  sqlite3 (2.10.2-arm64-darwin) sha256=5b0d235ea037e6dcd1b8387a19d73be571917db9f93044d35741cf933a21a37d
+  sqlite3 (2.10.2-x86_64-darwin) sha256=fd2c67b49d313031af112e172c83ab321681a2b4996bf882eefac50be7bea08f
+  sqlite3 (2.10.2-x86_64-linux-gnu) sha256=ca92731ab464df9cae503fa1a439a549e2724f6953c8c05a7769b59366e38f15
+  sqlite3 (2.10.2-x86_64-linux-musl) sha256=b9f8fc62f3e0eb8966b41de251b492b4c8e9d1b23559beb6e150ad7f8d590941
   strings (0.2.1) sha256=933293b3c95cf85b81eb44b3cf673e3087661ba739bbadfeadf442083158d6fb
   strings-ansi (0.2.0) sha256=90262d760ea4a94cc2ae8d58205277a343409c288cbe7c29416b1826bd511c88
   temple (0.10.7) sha256=369fe560adb6534674ce232899c2232df614bcb29c5359b05efedff7a57ed9c0
